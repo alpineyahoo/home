@@ -1,4 +1,4 @@
 # ようこそ
 只今作成中です👷‍♂️
 ## [info](/info)
-## [posts](/posts)
+## [post](/post)
